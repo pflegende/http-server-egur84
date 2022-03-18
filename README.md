@@ -6,6 +6,8 @@
 
 ## stackblitz credentials are not shown
 
+a naked server does not talk to us where it is sitting on
+
 ## a step by step tut - where?
 
 ### server2.js doesnt see index.html
