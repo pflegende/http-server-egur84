@@ -8,6 +8,8 @@
 
 a naked server does not talk to us where it is sitting on
 
+-> [`read the docs`](https://github.com/pflegende/http-server-egur84/wiki/caput-1----read-the-docs#how-does-it-work)
+
 ## a step by step tut - where?
 
 ### server2.js doesnt see index.html
