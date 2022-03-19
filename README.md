@@ -15,7 +15,8 @@ a naked server does not talk to us where it is sitting on
 ### server2.js doesnt see index.html
 
 - what was wrong?
-- is it enough for a issue?
+- is it enough for a [issue - Stackblitz - #636](https://github.com/stackblitz/webcontainer-core/issues/636)?
+
 
 so somebody is reading this 
 --- give us a hint 
